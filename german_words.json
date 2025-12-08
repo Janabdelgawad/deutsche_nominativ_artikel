@@ -1,0 +1,9852 @@
+[
+  {
+    "word": "Mann",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Man"
+  },
+  {
+    "word": "Frau",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Woman"
+  },
+  {
+    "word": "Jahr",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Year"
+  },
+  {
+    "word": "Kind",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Child"
+  },
+  {
+    "word": "Zeit",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Time"
+  },
+  {
+    "word": "Mensch",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Person, human being"
+  },
+  {
+    "word": "Tag",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Day"
+  },
+  {
+    "word": "Hand",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Hand"
+  },
+  {
+    "word": "Welt",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "World"
+  },
+  {
+    "word": "Augen",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Eyes (Plural)"
+  },
+  {
+    "word": "Haare",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Hair (Plural/Collective)"
+  },
+  {
+    "word": "Geld",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Money"
+  },
+  {
+    "word": "Stunde",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Hour"
+  },
+  {
+    "word": "Stadt",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "City"
+  },
+  {
+    "word": "Name",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Name"
+  },
+  {
+    "word": "Vater",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Father"
+  },
+  {
+    "word": "Mutter",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Mother"
+  },
+  {
+    "word": "Blick",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Gaze, view"
+  },
+  {
+    "word": "Weg",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Way, path"
+  },
+  {
+    "word": "Frage",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Question"
+  },
+  {
+    "word": "Land",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Country, land"
+  },
+  {
+    "word": "Fall",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Case, instance, fall"
+  },
+  {
+    "word": "Arbeit",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Work"
+  },
+  {
+    "word": "Herz",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Heart"
+  },
+  {
+    "word": "Seite",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Side, page"
+  },
+  {
+    "word": "Ende",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "End"
+  },
+  {
+    "word": "Woche",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Week"
+  },
+  {
+    "word": "Kopf",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Head"
+  },
+  {
+    "word": "Haus",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "House"
+  },
+  {
+    "word": "Sohn",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Son"
+  },
+  {
+    "word": "Tochter",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Daughter"
+  },
+  {
+    "word": "Stimme",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Voice, vote"
+  },
+  {
+    "word": "Grund",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Reason, ground"
+  },
+  {
+    "word": "Sache",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Thing, matter"
+  },
+  {
+    "word": "Abend",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Evening"
+  },
+  {
+    "word": "Herr",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mr., gentleman, lord"
+  },
+  {
+    "word": "Wasser",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Water"
+  },
+  {
+    "word": "Leben",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Life"
+  },
+  {
+    "word": "Licht",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Light"
+  },
+  {
+    "word": "Ort",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Place, location"
+  },
+  {
+    "word": "Tür",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Door"
+  },
+  {
+    "word": "Tisch",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Table"
+  },
+  {
+    "word": "Wort",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Word"
+  },
+  {
+    "word": "Zimmer",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Room"
+  },
+  {
+    "word": "Gesicht",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Face"
+  },
+  {
+    "word": "Polizei",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Police"
+  },
+  {
+    "word": "Boden",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Floor, ground"
+  },
+  {
+    "word": "Buch",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Book"
+  },
+  {
+    "word": "Schule",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "School"
+  },
+  {
+    "word": "Straße",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Street"
+  },
+  {
+    "word": "Gedanken",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Thoughts (Plural)"
+  },
+  {
+    "word": "Jahre",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Years (Plural)"
+  },
+  {
+    "word": "Hause",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Home (used in 'zu Hause')"
+  },
+  {
+    "word": "Auto",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Car"
+  },
+  {
+    "word": "Gott",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "God"
+  },
+  {
+    "word": "Firma",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Company, firm"
+  },
+  {
+    "word": "Wohnung",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Apartment"
+  },
+  {
+    "word": "Freund",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Friend (male)"
+  },
+  {
+    "word": "Freundin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Friend (female), girlfriend"
+  },
+  {
+    "word": "Minute",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Minute"
+  },
+  {
+    "word": "Familie",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Family"
+  },
+  {
+    "word": "Problem",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Problem"
+  },
+  {
+    "word": "Auge",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Eye"
+  },
+  {
+    "word": "Bett",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Bed"
+  },
+  {
+    "word": "Ecke",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Corner"
+  },
+  {
+    "word": "Ehe",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Marriage"
+  },
+  {
+    "word": "Fenster",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Window"
+  },
+  {
+    "word": "Film",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Film, movie"
+  },
+  {
+    "word": "Feuer",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Fire"
+  },
+  {
+    "word": "Flug",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Flight"
+  },
+  {
+    "word": "Himmel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Sky, heaven"
+  },
+  {
+    "word": "Hund",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Dog"
+  },
+  {
+    "word": "Idee",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Idea"
+  },
+  {
+    "word": "Kaffee",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Coffee"
+  },
+  {
+    "word": "Körper",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Body"
+  },
+  {
+    "word": "Lächeln",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Smile"
+  },
+  {
+    "word": "Liebe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Love"
+  },
+  {
+    "word": "Lösung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Solution"
+  },
+  {
+    "word": "Mädchen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Girl"
+  },
+  {
+    "word": "Morgen",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Morning"
+  },
+  {
+    "word": "Nacht",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Night"
+  },
+  {
+    "word": "Ohr",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Ear"
+  },
+  {
+    "word": "Platz",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Place, square, space"
+  },
+  {
+    "word": "Regen",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Rain"
+  },
+  {
+    "word": "Satz",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sentence, set"
+  },
+  {
+    "word": "Schlaf",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Sleep"
+  },
+  {
+    "word": "Spiel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Game, play"
+  },
+  {
+    "word": "Stein",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Stone"
+  },
+  {
+    "word": "Tee",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Tea"
+  },
+  {
+    "word": "Telefon",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Telephone"
+  },
+  {
+    "word": "Traum",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Dream"
+  },
+  {
+    "word": "Vaterland",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Fatherland"
+  },
+  {
+    "word": "Wand",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Wall"
+  },
+  {
+    "word": "Wind",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Wind"
+  },
+  {
+    "word": "Zukunft",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Future"
+  },
+  {
+    "word": "Zug",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Train, pull"
+  },
+  {
+    "word": "Anfang",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Beginning"
+  },
+  {
+    "word": "Angst",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Fear"
+  },
+  {
+    "word": "Antwort",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Answer"
+  },
+  {
+    "word": "Art",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Type, kind, manner"
+  },
+  {
+    "word": "Baum",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Tree"
+  },
+  {
+    "word": "Bein",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Leg"
+  },
+  {
+    "word": "Berg",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mountain"
+  },
+  {
+    "word": "Bild",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Picture, image"
+  },
+  {
+    "word": "Blut",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Blood"
+  },
+  {
+    "word": "Brot",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Bread"
+  },
+  {
+    "word": "Dorf",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Village"
+  },
+  {
+    "word": "Essen",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Food, meal"
+  },
+  {
+    "word": "Fahrrad",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Bicycle"
+  },
+  {
+    "word": "Ferien",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Vacation, holidays (Plural)"
+  },
+  {
+    "word": "Fluss",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "River"
+  },
+  {
+    "word": "Garten",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Garden"
+  },
+  {
+    "word": "Geburtstag",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Birthday"
+  },
+  {
+    "word": "Geschichte",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "History, story"
+  },
+  {
+    "word": "Glück",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Luck, happiness"
+  },
+  {
+    "word": "Hafen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Harbor, port"
+  },
+  {
+    "word": "Hals",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Neck, throat"
+  },
+  {
+    "word": "Heimat",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Home, homeland"
+  },
+  {
+    "word": "Hotel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Hotel"
+  },
+  {
+    "word": "Insel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Island"
+  },
+  {
+    "word": "Käse",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Cheese"
+  },
+  {
+    "word": "Katze",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Cat"
+  },
+  {
+    "word": "Kirche",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Church"
+  },
+  {
+    "word": "Küche",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Kitchen"
+  },
+  {
+    "word": "Krieg",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "War"
+  },
+  {
+    "word": "Kuss",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Kiss"
+  },
+  {
+    "word": "Lehrer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Teacher (male)"
+  },
+  {
+    "word": "Lehrerin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Teacher (female)"
+  },
+  {
+    "word": "Markt",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Market"
+  },
+  {
+    "word": "Meer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Sea, ocean"
+  },
+  {
+    "word": "Mittag",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Noon, midday"
+  },
+  {
+    "word": "Möglichkeit",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Possibility, opportunity"
+  },
+  {
+    "word": "Mund",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mouth"
+  },
+  {
+    "word": "Musik",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Music"
+  },
+  {
+    "word": "Nase",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Nose"
+  },
+  {
+    "word": "Osten",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "East"
+  },
+  {
+    "word": "Park",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Park"
+  },
+  {
+    "word": "Pferd",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Horse"
+  },
+  {
+    "word": "Preis",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Price, prize"
+  },
+  {
+    "word": "Radio",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Radio"
+  },
+  {
+    "word": "Recht",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Right, law"
+  },
+  {
+    "word": "Regierung",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Government"
+  },
+  {
+    "word": "Restaurant",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Restaurant"
+  },
+  {
+    "word": "Ruhe",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Peace, rest, quiet"
+  },
+  {
+    "word": "Saison",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Season"
+  },
+  {
+    "word": "Schiff",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Ship"
+  },
+  {
+    "word": "Schnee",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Snow"
+  },
+  {
+    "word": "Schuh",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Shoe"
+  },
+  {
+    "word": "See",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Lake (der See), sea (die See)"
+  },
+  {
+    "word": "Sonne",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Sun"
+  },
+  {
+    "word": "Sprache",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Language, speech"
+  },
+  {
+    "word": "Stelle",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Place, position, spot"
+  },
+  {
+    "word": "Tier",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Animal"
+  },
+  {
+    "word": "Trauer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Sorrow, grief"
+  },
+  {
+    "word": "Urlaub",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Vacation, leave"
+  },
+  {
+    "word": "Vergangenheit",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Past"
+  },
+  {
+    "word": "Verkehr",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Traffic, transport"
+  },
+  {
+    "word": "Vertrag",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Contract"
+  },
+  {
+    "word": "Vogel",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Bird"
+  },
+  {
+    "word": "Wald",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Forest"
+  },
+  {
+    "word": "Wein",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Wine"
+  },
+  {
+    "word": "Wissen",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Knowledge"
+  },
+  {
+    "word": "Zahl",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Number, figure"
+  },
+  {
+    "word": "Ziel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Goal, destination, target"
+  },
+  {
+    "word": "Zimmer",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Room"
+  },
+  {
+    "word": "Apfel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Apple"
+  },
+  {
+    "word": "Brot",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Bread"
+  },
+  {
+    "word": "Butter",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Butter"
+  },
+  {
+    "word": "Ei",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Egg"
+  },
+  {
+    "word": "Fisch",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Fish"
+  },
+  {
+    "word": "Fleisch",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Meat"
+  },
+  {
+    "word": "Gemüse",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Vegetables"
+  },
+  {
+    "word": "Käse",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Cheese"
+  },
+  {
+    "word": "Kartoffel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Potato"
+  },
+  {
+    "word": "Milch",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Milk"
+  },
+  {
+    "word": "Nudel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Noodle (often used in plural 'Nudeln')"
+  },
+  {
+    "word": "Obst",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Fruit"
+  },
+  {
+    "word": "Reis",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Rice"
+  },
+  {
+    "word": "Salat",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Salad, lettuce"
+  },
+  {
+    "word": "Suppe",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Soup"
+  },
+  {
+    "word": "Tomate",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Tomato"
+  },
+  {
+    "word": "Wurst",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Sausage"
+  },
+  {
+    "word": "Zucker",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Sugar"
+  },
+  {
+    "word": "Bank",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Bank, bench"
+  },
+  {
+    "word": "Brief",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Letter"
+  },
+  {
+    "word": "Chef",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Boss (male), chief"
+  },
+  {
+    "word": "Chefin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Boss (female), chief"
+  },
+  {
+    "word": "Dienstag",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Tuesday"
+  },
+  {
+    "word": "Donnerstag",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Thursday"
+  },
+  {
+    "word": "Erde",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Earth, ground, soil"
+  },
+  {
+    "word": "Erfolg",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Success"
+  },
+  {
+    "word": "Fehler",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mistake, error"
+  },
+  {
+    "word": "Freiheit",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Freedom"
+  },
+  {
+    "word": "Gebäude",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Building"
+  },
+  {
+    "word": "Gesetz",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Law"
+  },
+  {
+    "word": "Grenze",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Border, limit"
+  },
+  {
+    "word": "Hilfe",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Help"
+  },
+  {
+    "word": "Information",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Information (often used in plural 'Informationen')"
+  },
+  {
+    "word": "Junge",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Boy"
+  },
+  {
+    "word": "Kamera",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Camera"
+  },
+  {
+    "word": "Krieg",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "War"
+  },
+  {
+    "word": "Kultur",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Culture"
+  },
+  {
+    "word": "Kurs",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Course, rate"
+  },
+  {
+    "word": "Lied",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Song"
+  },
+  {
+    "word": "Mai",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "May (month)"
+  },
+  {
+    "word": "Medizin",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Medicine"
+  },
+  {
+    "word": "Menge",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Quantity, crowd"
+  },
+  {
+    "word": "Mittwoch",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Wednesday"
+  },
+  {
+    "word": "Montag",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Monday"
+  },
+  {
+    "word": "Mund",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Mouth"
+  },
+  {
+    "word": "Norden",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "North"
+  },
+  {
+    "word": "Organisation",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Organization"
+  },
+  {
+    "word": "Parteien",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Parties (Plural)"
+  },
+  {
+    "word": "Pass",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Passport"
+  },
+  {
+    "word": "Problem",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Problem"
+  },
+  {
+    "word": "Programm",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Program"
+  },
+  {
+    "word": "Puppe",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Doll"
+  },
+  {
+    "word": "Regel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Rule"
+  },
+  {
+    "word": "Samstag",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Saturday"
+  },
+  {
+    "word": "Schild",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Sign, shield"
+  },
+  {
+    "word": "Schrank",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Cupboard, closet"
+  },
+  {
+    "word": "Sekunde",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Second (time)"
+  },
+  {
+    "word": "Situation",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Situation"
+  },
+  {
+    "word": "Sommer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Summer"
+  },
+  {
+    "word": "Sonntag",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Sunday"
+  },
+  {
+    "word": "Süden",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "South"
+  },
+  {
+    "word": "System",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "System"
+  },
+  {
+    "word": "Tasse",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Cup"
+  },
+  {
+    "word": "Termin",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Appointment, deadline"
+  },
+  {
+    "word": "Tourist",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Tourist (male)"
+  },
+  {
+    "word": "Tourist",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Tourist (female)"
+  },
+  {
+    "word": "T-Shirt",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "T-shirt"
+  },
+  {
+    "word": "Veränderung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Change"
+  },
+  {
+    "word": "Versicherung",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Insurance"
+  },
+  {
+    "word": "Viertel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Quarter, district"
+  },
+  {
+    "word": "Westen",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "West"
+  },
+  {
+    "word": "Wetter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Weather"
+  },
+  {
+    "word": "Wissenschaft",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Science"
+  },
+  {
+    "word": "Zentrum",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Center"
+  },
+  {
+    "word": "Zweifel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Doubt"
+  },
+  {
+    "word": "Ahnung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Idea, notion (often used in 'keine Ahnung' - no idea)"
+  },
+  {
+    "word": "Amt",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Office, authority, post"
+  },
+  {
+    "word": "Anspruch",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Claim, right"
+  },
+  {
+    "word": "Aufgabe",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Task, assignment"
+  },
+  {
+    "word": "Auftrag",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Order, assignment, commission"
+  },
+  {
+    "word": "Ausländer",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Foreigner (male)"
+  },
+  {
+    "word": "Ausländerin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Foreigner (female)"
+  },
+  {
+    "word": "Band",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Band (music), volume (book), ribbon"
+  },
+  {
+    "word": "Bedeutung",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Meaning, significance"
+  },
+  {
+    "word": "Beispiel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Example"
+  },
+  {
+    "word": "Beruf",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Profession, job"
+  },
+  {
+    "word": "Bewegung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Movement"
+  },
+  {
+    "word": "Computer",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Computer"
+  },
+  {
+    "word": "Dienst",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Service, duty"
+  },
+  {
+    "word": "Diskussion",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Discussion"
+  },
+  {
+    "word": "Doktor",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Doctor (male)"
+  },
+  {
+    "word": "Doktorin",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Doctor (female)"
+  },
+  {
+    "word": "Druck",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Pressure, print"
+  },
+  {
+    "word": "Erfahrung",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Experience"
+  },
+  {
+    "word": "Ergebnis",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Result, outcome"
+  },
+  {
+    "word": "Familie",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Family"
+  },
+  {
+    "word": "Farbe",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Color"
+  },
+  {
+    "word": "Form",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Shape, form"
+  },
+  {
+    "word": "Forschung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Research"
+  },
+  {
+    "word": "Fuß",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Foot"
+  },
+  {
+    "word": "Gefahr",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Danger"
+  },
+  {
+    "word": "Geist",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Spirit, mind, ghost"
+  },
+  {
+    "word": "Generation",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Generation"
+  },
+  {
+    "word": "Gespräch",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Conversation"
+  },
+  {
+    "word": "Gruppe",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Group"
+  },
+  {
+    "word": "Interesse",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Interest"
+  },
+  {
+    "word": "Journalist",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Journalist (male)"
+  },
+  {
+    "word": "Journalistin",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Journalist (female)"
+  },
+  {
+    "word": "Kaffee",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Coffee"
+  },
+  {
+    "word": "Klasse",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Class"
+  },
+  {
+    "word": "Kosten",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Costs (Plural)"
+  },
+  {
+    "word": "Kraft",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Strength, power"
+  },
+  {
+    "word": "Laden",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Shop, store"
+  },
+  {
+    "word": "Leistung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Achievement, performance"
+  },
+  {
+    "word": "Linie",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Line"
+  },
+  {
+    "word": "Menge",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Quantity, crowd"
+  },
+  {
+    "word": "Mitte",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Middle, center"
+  },
+  {
+    "word": "Monat",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Month"
+  },
+  {
+    "word": "Nachmittag",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Afternoon"
+  },
+  {
+    "word": "Nahrung",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Nutrition, food"
+  },
+  {
+    "word": "Partei",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Political party"
+  },
+  {
+    "word": "Passagier",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Passenger (male)"
+  },
+  {
+    "word": "Passagierin",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Passenger (female)"
+  },
+  {
+    "word": "Pflanze",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Plant"
+  },
+  {
+    "word": "Punkte",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Points (Plural)"
+  },
+  {
+    "word": "Quelle",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Source, spring"
+  },
+  {
+    "word": "Richtung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Direction"
+  },
+  {
+    "word": "Sache",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Thing, matter"
+  },
+  {
+    "word": "Schild",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Sign, shield"
+  },
+  {
+    "word": "Schritt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Step"
+  },
+  {
+    "word": "Serie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Series"
+  },
+  {
+    "word": "Sicherheit",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Security, safety"
+  },
+  {
+    "word": "Soldat",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Soldier (male)"
+  },
+  {
+    "word": "Soldatin",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Soldier (female)"
+  },
+  {
+    "word": "Sonstiges",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Miscellaneous, other"
+  },
+  {
+    "word": "Täter",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Perpetrator (male), culprit"
+  },
+  {
+    "word": "Täterin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Perpetrator (female), culprit"
+  },
+  {
+    "word": "Teil",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Part"
+  },
+  {
+    "word": "Thema",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Topic, theme"
+  },
+  {
+    "word": "Trennung",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Separation"
+  },
+  {
+    "word": "Truppe",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Troop, squad"
+  },
+  {
+    "word": "Tür",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Door"
+  },
+  {
+    "word": "Umwelt",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Environment"
+  },
+  {
+    "word": "Ursache",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Cause, reason"
+  },
+  {
+    "word": "Verhältnis",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Relationship, ratio"
+  },
+  {
+    "word": "Versuch",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Attempt, experiment"
+  },
+  {
+    "word": "Vorteil",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Advantage"
+  },
+  {
+    "word": "Wahl",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Choice, election"
+  },
+  {
+    "word": "Ware",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Goods, commodity (often used in plural 'Waren')"
+  },
+  {
+    "word": "Wärme",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Heat, warmth"
+  },
+  {
+    "word": "Wechsel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Change, exchange"
+  },
+  {
+    "word": "Wert",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Value"
+  },
+  {
+    "word": "Wille",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Will, desire"
+  },
+  {
+    "word": "Wirkung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Effect, impact"
+  },
+  {
+    "word": "Wohnen",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Living, dwelling"
+  },
+  {
+    "word": "Wunsch",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Wish, desire"
+  },
+  {
+    "word": "Zielgruppe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Target group"
+  },
+  {
+    "word": "Zuschauer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Spectator (male), audience member"
+  },
+  {
+    "word": "Zuschauerin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Spectator (female), audience member"
+  },
+  {
+    "word": "Zustand",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Condition, state"
+  },
+  {
+    "word": "Abteilung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Department, division"
+  },
+  {
+    "word": "Adresse",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Address"
+  },
+  {
+    "word": "Akten",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Files, records (Plural)"
+  },
+  {
+    "word": "Alter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Age"
+  },
+  {
+    "word": "Anlage",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Facility, attachment, system"
+  },
+  {
+    "word": "Anzeige",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Advertisement, display, report"
+  },
+  {
+    "word": "Arzt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Doctor (male)"
+  },
+  {
+    "word": "Ärztin",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Doctor (female)"
+  },
+  {
+    "word": "Auftritt",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Performance, appearance"
+  },
+  {
+    "word": "Ausdruck",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Expression, printout"
+  },
+  {
+    "word": "Behörde",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Authority, agency"
+  },
+  {
+    "word": "Beitrag",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Contribution, article, fee"
+  },
+  {
+    "word": "Bericht",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Report"
+  },
+  {
+    "word": "Betrag",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Amount, sum"
+  },
+  {
+    "word": "Bürger",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Citizen (male)"
+  },
+  {
+    "word": "Bürgerin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Citizen (female)"
+  },
+  {
+    "word": "Chance",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Chance, opportunity"
+  },
+  {
+    "word": "Daten",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Data (Plural)"
+  },
+  {
+    "word": "Dienstleistung",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Service (provided)"
+  },
+  {
+    "word": "Einheit",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Unit, unity"
+  },
+  {
+    "word": "Eindruck",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Impression"
+  },
+  {
+    "word": "Einrichtung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Institution, facility, furnishing"
+  },
+  {
+    "word": "Einstellung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Attitude, setting, employment"
+  },
+  {
+    "word": "Entwicklung",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Development"
+  },
+  {
+    "word": "Erfolg",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Success"
+  },
+  {
+    "word": "Experte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Expert (male)"
+  },
+  {
+    "word": "Expertin",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Expert (female)"
+  },
+  {
+    "word": "Fahrer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Driver (male)"
+  },
+  {
+    "word": "Fahrerin",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Driver (female)"
+  },
+  {
+    "word": "Fahrzeug",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Vehicle"
+  },
+  {
+    "word": "Feier",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Celebration, party"
+  },
+  {
+    "word": "Fläche",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Area, surface"
+  },
+  {
+    "word": "Folge",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Consequence, episode, sequence"
+  },
+  {
+    "word": "Forderung",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Demand, claim"
+  },
+  {
+    "word": "Funktion",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Function"
+  },
+  {
+    "word": "Gebiet",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Area, territory"
+  },
+  {
+    "word": "Gefühl",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Feeling"
+  },
+  {
+    "word": "Gerät",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Device, appliance"
+  },
+  {
+    "word": "Gericht",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Court, dish (food)"
+  },
+  {
+    "word": "Geschäft",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Business, shop"
+  },
+  {
+    "word": "Gewicht",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Weight"
+  },
+  {
+    "word": "Grenze",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Border, limit"
+  },
+  {
+    "word": "Handel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Trade, commerce"
+  },
+  {
+    "word": "Hersteller",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Manufacturer"
+  },
+  {
+    "word": "Industrie",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Industry"
+  },
+  {
+    "word": "Institut",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Institute"
+  },
+  {
+    "word": "Kamera",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Camera"
+  },
+  {
+    "word": "Kapital",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Capital (money)"
+  },
+  {
+    "word": "Konto",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Account (bank)"
+  },
+  {
+    "word": "Krankenhaus",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Hospital"
+  },
+  {
+    "word": "Kunde",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Customer (male)"
+  },
+  {
+    "word": "Kundin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Customer (female)"
+  },
+  {
+    "word": "Lage",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Location, situation"
+  },
+  {
+    "word": "Leiter",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Leader/Head (male), ladder"
+  },
+  {
+    "word": "Leiterin",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Leader/Head (female)"
+  },
+  {
+    "word": "Markt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Market"
+  },
+  {
+    "word": "Material",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Material"
+  },
+  {
+    "word": "Maßnahme",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Measure, action"
+  },
+  {
+    "word": "Medien",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Media (Plural)"
+  },
+  {
+    "word": "Mitglied",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Member"
+  },
+  {
+    "word": "Möglichkeit",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Possibility, opportunity"
+  },
+  {
+    "word": "Netz",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Net, network"
+  },
+  {
+    "word": "Opfer",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Victim, sacrifice"
+  },
+  {
+    "word": "Phase",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Phase"
+  },
+  {
+    "word": "Politik",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Politics, policy"
+  },
+  {
+    "word": "Post",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Mail, post office"
+  },
+  {
+    "word": "Presse",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Press"
+  },
+  {
+    "word": "Produkt",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Product"
+  },
+  {
+    "word": "Reihe",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Row, series, turn"
+  },
+  {
+    "word": "Rolle",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Role, roll"
+  },
+  {
+    "word": "Sektor",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Sector"
+  },
+  {
+    "word": "Service",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Service"
+  },
+  {
+    "word": "Spieler",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Player (male)"
+  },
+  {
+    "word": "Spielerin",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Player (female)"
+  },
+  {
+    "word": "Sport",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Sport"
+  },
+  {
+    "word": "Standard",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Standard"
+  },
+  {
+    "word": "Steuer",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Tax (often plural 'Steuern'), steering wheel"
+  },
+  {
+    "word": "Stück",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Piece, play, item"
+  },
+  {
+    "word": "Studie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Study"
+  },
+  {
+    "word": "Technik",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Technique, technology"
+  },
+  {
+    "word": "Titel",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Title"
+  },
+  {
+    "word": "Tuch",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Cloth, scarf"
+  },
+  {
+    "word": "Umfang",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Scope, extent, circumference"
+  },
+  {
+    "word": "Unternehmen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Company, enterprise"
+  },
+  {
+    "word": "Verband",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Association, bandage"
+  },
+  {
+    "word": "Verkauf",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sale"
+  },
+  {
+    "word": "Versorgung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Supply, provision"
+  },
+  {
+    "word": "Verwaltung",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Administration, management"
+  },
+  {
+    "word": "Vorsitzender",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Chairman, President (male)"
+  },
+  {
+    "word": "Vorsitzende",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Chairwoman, President (female)"
+  },
+  {
+    "word": "Wandel",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Change, transformation"
+  },
+  {
+    "word": "Website",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Website"
+  },
+  {
+    "word": "Wirkung",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Effect, impact"
+  },
+  {
+    "word": "Wohnen",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Living, dwelling"
+  },
+  {
+    "word": "Wunsch",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Wish, desire"
+  },
+  {
+    "word": "Zielgruppe",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Target group"
+  },
+  {
+    "word": "Zuschauer",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Spectator (male), audience member"
+  },
+  {
+    "word": "Zuschauerin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Spectator (female), audience member"
+  },
+  {
+    "word": "Zustand",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Condition, state"
+  },
+  {
+    "word": "Acker",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Field, arable land"
+  },
+  {
+    "word": "Adler",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Eagle"
+  },
+  {
+    "word": "Abschluss",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Conclusion, degree, end"
+  },
+  {
+    "word": "Anspruch",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Claim, right"
+  },
+  {
+    "word": "Archiv",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Archive"
+  },
+  {
+    "word": "Atem",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Breath"
+  },
+  {
+    "word": "Aufnahme",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Recording, admission, intake"
+  },
+  {
+    "word": "Ausflug",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Excursion, trip"
+  },
+  {
+    "word": "Ausgang",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Exit, outcome"
+  },
+  {
+    "word": "Bereich",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Area, range, field"
+  },
+  {
+    "word": "Besuch",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Visit"
+  },
+  {
+    "word": "Bier",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Beer"
+  },
+  {
+    "word": "Blatt",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Leaf, sheet (of paper)"
+  },
+  {
+    "word": "Braut",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bride"
+  },
+  {
+    "word": "Brücke",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bridge"
+  },
+  {
+    "word": "Decke",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Ceiling, blanket"
+  },
+  {
+    "word": "Erkenntnis",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Knowledge, insight"
+  },
+  {
+    "word": "Existenz",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Existence"
+  },
+  {
+    "word": "Fahrerlaubnis",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Driving license"
+  },
+  {
+    "word": "Fahrplan",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Timetable, schedule"
+  },
+  {
+    "word": "Falle",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Trap, snare"
+  },
+  {
+    "word": "Frühstück",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Breakfast"
+  },
+  {
+    "word": "Gefängnis",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Prison, jail"
+  },
+  {
+    "word": "Geheimnis",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Secret"
+  },
+  {
+    "word": "Gemälde",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Painting"
+  },
+  {
+    "word": "Geruch",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Smell, odor"
+  },
+  {
+    "word": "Geschmack",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Taste"
+  },
+  {
+    "word": "Gewalt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Violence, force"
+  },
+  {
+    "word": "Gras",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Grass"
+  },
+  {
+    "word": "Heft",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Notebook, booklet"
+  },
+  {
+    "word": "Held",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Hero (male)"
+  },
+  {
+    "word": "Heldin",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Heroine (female)"
+  },
+  {
+    "word": "Hexe",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Witch"
+  },
+  {
+    "word": "Höhe",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Height, altitude"
+  },
+  {
+    "word": "Kabel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Cable"
+  },
+  {
+    "word": "Kamin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Fireplace, chimney"
+  },
+  {
+    "word": "Kette",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Chain, necklace"
+  },
+  {
+    "word": "Kino",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Cinema"
+  },
+  {
+    "word": "Krieger",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Warrior (male)"
+  },
+  {
+    "word": "Kriegerin",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Warrior (female)"
+  },
+  {
+    "word": "Kugel",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Sphere, ball, bullet"
+  },
+  {
+    "word": "Leiden",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Suffering, passion"
+  },
+  {
+    "word": "Lenkrad",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Steering wheel"
+  },
+  {
+    "word": "Mauer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Wall"
+  },
+  {
+    "word": "Messer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Knife"
+  },
+  {
+    "word": "Mietvertrag",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Lease agreement, tenancy agreement"
+  },
+  {
+    "word": "Mittel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Means, resources, center"
+  },
+  {
+    "word": "Museum",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Museum"
+  },
+  {
+    "word": "Nachricht",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Message, news"
+  },
+  {
+    "word": "Opfer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Victim, sacrifice"
+  },
+  {
+    "word": "Rauchen",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 1,
+    "definition": "Smoking (as a noun)"
+  },
+  {
+    "word": "Rennen",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Race, running (as a noun)"
+  },
+  {
+    "word": "Rücken",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Back (body part)"
+  },
+  {
+    "word": "Schlüssel",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Key"
+  },
+  {
+    "word": "Schwein",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Pig, swine"
+  },
+  {
+    "word": "Seele",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Soul"
+  },
+  {
+    "word": "Spiegel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mirror"
+  },
+  {
+    "word": "Stahl",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Steel"
+  },
+  {
+    "word": "Staub",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Dust"
+  },
+  {
+    "word": "Suppe",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Soup"
+  },
+  {
+    "word": "Tal",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Valley"
+  },
+  {
+    "word": "Träne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Tear (from eye)"
+  },
+  {
+    "word": "Türkei",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Turkey (country)"
+  },
+  {
+    "word": "Ufer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Shore, bank"
+  },
+  {
+    "word": "Unterschied",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Difference"
+  },
+  {
+    "word": "Verbrecher",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Criminal (male)"
+  },
+  {
+    "word": "Verbrecherin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Criminal (female)"
+  },
+  {
+    "word": "Versprechen",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Promise (as a noun)"
+  },
+  {
+    "word": "Visum",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Visa"
+  },
+  {
+    "word": "Waffe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Weapon"
+  },
+  {
+    "word": "Wolke",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Cloud"
+  },
+  {
+    "word": "Wunder",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Wonder, miracle"
+  },
+  {
+    "word": "Zeichen",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Sign, mark, token"
+  },
+  {
+    "word": "Zunge",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 0,
+    "definition": "Tongue"
+  },
+  {
+    "word": "Lehrer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Teacher (male)"
+  },
+  {
+    "word": "Lehrerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Teacher (female)"
+  },
+  {
+    "word": "Anwalt",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Lawyer (male)"
+  },
+  {
+    "word": "Anwältin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Lawyer (female)"
+  },
+  {
+    "word": "Koch",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Cook (male), chef"
+  },
+  {
+    "word": "Köchin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Cook (female), chef"
+  },
+  {
+    "word": "Verkäufer",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Salesperson (male)"
+  },
+  {
+    "word": "Verkäuferin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Salesperson (female)"
+  },
+  {
+    "word": "Friseur",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Hairdresser (male)"
+  },
+  {
+    "word": "Friseurin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Hairdresser (female)"
+  },
+  {
+    "word": "Ingenieur",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Engineer (male)"
+  },
+  {
+    "word": "Ingenieurin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Engineer (female)"
+  },
+  {
+    "word": "Bäcker",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Baker (male)"
+  },
+  {
+    "word": "Bäckerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Baker (female)"
+  },
+  {
+    "word": "Krankenpfleger",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Nurse (male)"
+  },
+  {
+    "word": "Krankenschwester",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Nurse (female)"
+  },
+  {
+    "word": "Student",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Student (male, university)"
+  },
+  {
+    "word": "Studentin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Student (female, university)"
+  },
+  {
+    "word": "Azubi",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Trainee, apprentice (male/female, short for 'Auszubildender')"
+  },
+  {
+    "word": "Kellner",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Waiter"
+  },
+  {
+    "word": "Kellnerin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Waitress"
+  },
+  {
+    "word": "Künstler",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Artist (male)"
+  },
+  {
+    "word": "Künstlerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Artist (female)"
+  },
+  {
+    "word": "Maler",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Painter (male, artist or house painter)"
+  },
+  {
+    "word": "Malerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Painter (female, artist or house painter)"
+  },
+  {
+    "word": "Pilot",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Pilot (male)"
+  },
+  {
+    "word": "Pilotin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Pilot (female)"
+  },
+  {
+    "word": "Polizist",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Police officer (male)"
+  },
+  {
+    "word": "Polizistin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Police officer (female)"
+  },
+  {
+    "word": "Schriftsteller",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Writer (male), author"
+  },
+  {
+    "word": "Schriftstellerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Writer (female), author"
+  },
+  {
+    "word": "Büro",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Office (place)"
+  },
+  {
+    "word": "Computer",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Computer"
+  },
+  {
+    "word": "Tastatur",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Keyboard"
+  },
+  {
+    "word": "Maus",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Mouse (computer or animal)"
+  },
+  {
+    "word": "Monitor",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Monitor, screen"
+  },
+  {
+    "word": "Drucker",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Printer"
+  },
+  {
+    "word": "Papier",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Paper"
+  },
+  {
+    "word": "Stempel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Stamp (for stamping)"
+  },
+  {
+    "word": "Aktenordner",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "File folder, binder"
+  },
+  {
+    "word": "Briefumschlag",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Envelope"
+  },
+  {
+    "word": "Kaffeemaschine",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Coffee machine"
+  },
+  {
+    "word": "Mikrofon",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Microphone"
+  },
+  {
+    "word": "Kopfhörer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Headphones"
+  },
+  {
+    "word": "Buch",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Book"
+  },
+  {
+    "word": "Stift",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Pen, pencil"
+  },
+  {
+    "word": "Heft",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Notebook"
+  },
+  {
+    "word": "Rucksack",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Backpack"
+  },
+  {
+    "word": "Tasche",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bag, pocket"
+  },
+  {
+    "word": "Schere",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Scissors"
+  },
+  {
+    "word": "Kleber",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Glue"
+  },
+  {
+    "word": "Lineal",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Ruler"
+  },
+  {
+    "word": "Kamera",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Camera"
+  },
+  {
+    "word": "Pinsel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Brush (for painting)"
+  },
+  {
+    "word": "Leinwand",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Canvas (for painting)"
+  },
+  {
+    "word": "Fahrrad",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Bicycle"
+  },
+  {
+    "word": "Angelrute",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Fishing rod"
+  },
+  {
+    "word": "Wanderstock",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Hiking pole"
+  },
+  {
+    "word": "Gitarre",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Guitar"
+  },
+  {
+    "word": "Apotheke",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Pharmacy, chemist's"
+  },
+  {
+    "word": "Bibliothek",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Library"
+  },
+  {
+    "word": "Bäckerei",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bakery"
+  },
+  {
+    "word": "Museum",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Museum"
+  },
+  {
+    "word": "Parkplatz",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Parking lot"
+  },
+  {
+    "word": "Spielplatz",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Playground"
+  },
+  {
+    "word": "Schwimmbad",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Swimming pool"
+  },
+  {
+    "word": "Sportplatz",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sports field"
+  },
+  {
+    "word": "Theater",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Theater"
+  },
+  {
+    "word": "Universität",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "University"
+  },
+  {
+    "word": "Bahnhof",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Train station"
+  },
+  {
+    "word": "Flughafen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Airport"
+  },
+  {
+    "word": "Postamt",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Post office"
+  },
+  {
+    "word": "Rathaus",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "City hall, town hall"
+  },
+  {
+    "word": "Supermarkt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Supermarket"
+  },
+  {
+    "word": "Tempel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Temple"
+  },
+  {
+    "word": "Zoo",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Zoo"
+  },
+  {
+    "word": "Kino",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Cinema, movie theater"
+  },
+  {
+    "word": "Galerie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Gallery"
+  },
+  {
+    "word": "Laden",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Shop, store"
+  },
+  {
+    "word": "Markt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Market"
+  },
+  {
+    "word": "Hafen",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Harbor, port"
+  },
+  {
+    "word": "Burg",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Castle"
+  },
+  {
+    "word": "Schloss",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Palace, lock"
+  },
+  {
+    "word": "Turm",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Tower"
+  },
+  {
+    "word": "Höhle",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Cave"
+  },
+  {
+    "word": "Wiese",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Meadow, lawn"
+  },
+  {
+    "word": "Gebirge",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Mountain range"
+  },
+  {
+    "word": "Insel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Island"
+  },
+  {
+    "word": "Halbinsel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Peninsula"
+  },
+  {
+    "word": "Kanal",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Canal, channel"
+  },
+  {
+    "word": "Fähre",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Ferry"
+  },
+  {
+    "word": "Flugzeug",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Airplane"
+  },
+  {
+    "word": "Helikopter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Helicopter"
+  },
+  {
+    "word": "Schiff",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Ship"
+  },
+  {
+    "word": "Boot",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Boat"
+  },
+  {
+    "word": "U-Bahn",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Subway, underground"
+  },
+  {
+    "word": "S-Bahn",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Suburban train"
+  },
+  {
+    "word": "Straßenbahn",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Tram, streetcar"
+  },
+  {
+    "word": "Bus",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Bus"
+  },
+  {
+    "word": "Taxi",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Taxi"
+  },
+  {
+    "word": "Motorrad",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Motorcycle"
+  },
+  {
+    "word": "Roller",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Scooter (motorized or kick)"
+  },
+  {
+    "word": "LKW",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Truck (lorry)"
+  },
+  {
+    "word": "Zug",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Train"
+  },
+  {
+    "word": "Reisen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Traveling (as a noun)"
+  },
+  {
+    "word": "Wandern",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Hiking (as a noun)"
+  },
+  {
+    "word": "Fotografieren",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Photography (as a noun)"
+  },
+  {
+    "word": "Malen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Painting (as a noun)"
+  },
+  {
+    "word": "Lesen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Reading (as a noun)"
+  },
+  {
+    "word": "Kochen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Cooking (as a noun)"
+  },
+  {
+    "word": "Backen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Baking (as a noun)"
+  },
+  {
+    "word": "Schwimmen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Swimming (as a noun)"
+  },
+  {
+    "word": "Tanzen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Dancing (as a noun)"
+  },
+  {
+    "word": "Gärtnern",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Gardening (as a noun)"
+  },
+  {
+    "word": "Angeln",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Fishing (as a noun)"
+  },
+  {
+    "word": "Musik",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Music"
+  },
+  {
+    "word": "Singen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Singing (as a noun)"
+  },
+  {
+    "word": "Schreiben",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Writing (as a noun)"
+  },
+  {
+    "word": "Joggen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Jogging (as a noun)"
+  },
+  {
+    "word": "Fußball",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Football, soccer"
+  },
+  {
+    "word": "Tennis",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Tennis (as a noun)"
+  },
+  {
+    "word": "Ski",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Skiing (as a noun), ski"
+  },
+  {
+    "word": "Eis",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Ice, ice cream"
+  },
+  {
+    "word": "Fahrkarte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Ticket (for travel)"
+  },
+  {
+    "word": "Abenteuer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Adventure"
+  },
+  {
+    "word": "Plan",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Plan"
+  },
+  {
+    "word": "Entscheidung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Decision"
+  },
+  {
+    "word": "Menge",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Amount, quantity, crowd"
+  },
+  {
+    "word": "Brotzeit",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Snack, break time (often bread and cheese/sausage)"
+  },
+  {
+    "word": "Feierabend",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "End of work day"
+  },
+  {
+    "word": "Vorschlag",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Suggestion, proposal"
+  },
+  {
+    "word": "Geschenk",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Gift"
+  },
+  {
+    "word": "Glückwunsch",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Congratulation"
+  },
+  {
+    "word": "Nachbar",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Neighbor (male)"
+  },
+  {
+    "word": "Nachbarin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Neighbor (female)"
+  },
+  {
+    "word": "Hausmeister",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Caretaker (male), janitor"
+  },
+  {
+    "word": "Hausmeisterin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Caretaker (female), janitor"
+  },
+  {
+    "word": "Bürgermeister",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mayor (male)"
+  },
+  {
+    "word": "Bürgermeisterin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Mayor (female)"
+  },
+  {
+    "word": "Kaufmann",
+    "options": [
+      "Die",
+      "Der",
+      "Das"
+    ],
+    "correct": 1,
+    "definition": "Merchant (male), businessman"
+  },
+  {
+    "word": "Kauffrau",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Merchant (female), businesswoman"
+  },
+  {
+    "word": "Beamte",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Civil servant (male)"
+  },
+  {
+    "word": "Beamtin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Civil servant (female)"
+  },
+  {
+    "word": "Richter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Judge (male)"
+  },
+  {
+    "word": "Richterin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Judge (female)"
+  },
+  {
+    "word": "Journalist",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 1,
+    "definition": "Journalist (male)"
+  },
+  {
+    "word": "Journalistin",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Journalist (female)"
+  },
+  {
+    "word": "Politiker",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Politician (male)"
+  },
+  {
+    "word": "Politikerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Politician (female)"
+  },
+  {
+    "word": "Konto",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Account (bank)"
+  },
+  {
+    "word": "Rechnung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bill, invoice"
+  },
+  {
+    "word": "Quittung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Receipt"
+  },
+  {
+    "word": "Geldautomat",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "ATM (cash machine)"
+  },
+  {
+    "word": "Kreditkarte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Credit card"
+  },
+  {
+    "word": "Überweisung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bank transfer"
+  },
+  {
+    "word": "Aktie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Share, stock"
+  },
+  {
+    "word": "Forschung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Research"
+  },
+  {
+    "word": "Entwicklung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Development"
+  },
+  {
+    "word": "Labor",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Laboratory"
+  },
+  {
+    "word": "Experiment",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Experiment"
+  },
+  {
+    "word": "Messgerät",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Measuring instrument"
+  },
+  {
+    "word": "Mikroskop",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Microscope"
+  },
+  {
+    "word": "Chemikalie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Chemical"
+  },
+  {
+    "word": "Formel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Formula"
+  },
+  {
+    "word": "Theorie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Theory"
+  },
+  {
+    "word": "Datenbank",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Database"
+  },
+  {
+    "word": "Algorithmus",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Algorithm"
+  },
+  {
+    "word": "Code",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Code"
+  },
+  {
+    "word": "Netzwerk",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Network"
+  },
+  {
+    "word": "Server",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Server"
+  },
+  {
+    "word": "Sicherheit",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Security, safety"
+  },
+  {
+    "word": "Schraubendreher",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Screwdriver"
+  },
+  {
+    "word": "Hammer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Hammer"
+  },
+  {
+    "word": "Zange",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Pliers"
+  },
+  {
+    "word": "Säge",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Saw"
+  },
+  {
+    "word": "Schraube",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Screw"
+  },
+  {
+    "word": "Nagel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Nail (for carpentry)"
+  },
+  {
+    "word": "Werkzeug",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Tool"
+  },
+  {
+    "word": "Helm",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Helmet"
+  },
+  {
+    "word": "Schutzbrille",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Safety glasses"
+  },
+  {
+    "word": "Bauarbeiter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Construction worker (male)"
+  },
+  {
+    "word": "Bauarbeiterin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Construction worker (female)"
+  },
+  {
+    "word": "Mechaniker",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mechanic (male)"
+  },
+  {
+    "word": "Mechanikerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Mechanic (female)"
+  },
+  {
+    "word": "Kochmütze",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Chef's hat"
+  },
+  {
+    "word": "Schürze",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Apron"
+  },
+  {
+    "word": "Pfanne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Pan, frying pan"
+  },
+  {
+    "word": "Topf",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Pot"
+  },
+  {
+    "word": "Löffel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Spoon"
+  },
+  {
+    "word": "Gabel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Fork"
+  },
+  {
+    "word": "Messer",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Knife"
+  },
+  {
+    "word": "Teller",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Plate"
+  },
+  {
+    "word": "Glas",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Glass"
+  },
+  {
+    "word": "Wein",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Wine"
+  },
+  {
+    "word": "Salz",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Salt"
+  },
+  {
+    "word": "Pfeffer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Pepper"
+  },
+  {
+    "word": "Kräuter",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Herbs (Plural)"
+  },
+  {
+    "word": "Teig",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Dough, batter"
+  },
+  {
+    "word": "Ofen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Oven, furnace"
+  },
+  {
+    "word": "Laptop",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Laptop"
+  },
+  {
+    "word": "Tablet",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Tablet (computer)"
+  },
+  {
+    "word": "Smartphone",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Smartphone"
+  },
+  {
+    "word": "Software",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Software"
+  },
+  {
+    "word": "Passwort",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Password"
+  },
+  {
+    "word": "Feuerwehr",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Fire brigade, fire department"
+  },
+  {
+    "word": "Rettungsdienst",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Rescue service, ambulance service"
+  },
+  {
+    "word": "Krankenwagen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Ambulance"
+  },
+  {
+    "word": "Polizeiwache",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Police station"
+  },
+  {
+    "word": "Uniform",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Uniform"
+  },
+  {
+    "word": "Waffe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Weapon"
+  },
+  {
+    "word": "Häftling",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Prisoner"
+  },
+  {
+    "word": "Gefängnis",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Prison, jail"
+  },
+  {
+    "word": "Gericht",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Court"
+  },
+  {
+    "word": "Anklage",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Charge, indictment"
+  },
+  {
+    "word": "Verteidigung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Defense"
+  },
+  {
+    "word": "Schuld",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Guilt, debt"
+  },
+  {
+    "word": "Unschuld",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Innocence"
+  },
+  {
+    "word": "Strafe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Punishment, fine"
+  },
+  {
+    "word": "Brot",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Bread"
+  },
+  {
+    "word": "Mehl",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Flour"
+  },
+  {
+    "word": "Hefe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Yeast"
+  },
+  {
+    "word": "Zucker",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sugar"
+  },
+  {
+    "word": "Gemüse",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Vegetables"
+  },
+  {
+    "word": "Obst",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Fruit"
+  },
+  {
+    "word": "Süßigkeit",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Sweet, candy (often plural 'Süßigkeiten')"
+  },
+  {
+    "word": "Reifen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Tire, hoop"
+  },
+  {
+    "word": "Motor",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Engine, motor"
+  },
+  {
+    "word": "Öl",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Oil"
+  },
+  {
+    "word": "Benzin",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Petrol, gasoline"
+  },
+  {
+    "word": "Garage",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Garage"
+  },
+  {
+    "word": "Lenkrad",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Steering wheel"
+  },
+  {
+    "word": "Bremse",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Brake"
+  },
+  {
+    "word": "Kupplung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Clutch"
+  },
+  {
+    "word": "Scheinwerfer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Headlight"
+  },
+  {
+    "word": "Flügel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Wing, grand piano, flank"
+  },
+  {
+    "word": "Passagier",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Passenger (male)"
+  },
+  {
+    "word": "Passagierin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Passenger (female)"
+  },
+  {
+    "word": "Koffer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Suitcase"
+  },
+  {
+    "word": "Gepäck",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Luggage, baggage"
+  },
+  {
+    "word": "Abflug",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Departure (by air)"
+  },
+  {
+    "word": "Ankunft",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Arrival"
+  },
+  {
+    "word": "Gleis",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Track, platform (for trains)"
+  },
+  {
+    "word": "Verspätung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Delay"
+  },
+  {
+    "word": "Schiff",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Ship"
+  },
+  {
+    "word": "Segel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Sail"
+  },
+  {
+    "word": "Anker",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Anchor"
+  },
+  {
+    "word": "Welle",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Wave"
+  },
+  {
+    "word": "Wind",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Wind"
+  },
+  {
+    "word": "Sand",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sand"
+  },
+  {
+    "word": "Strand",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Beach"
+  },
+  {
+    "word": "Palme",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Palm tree"
+  },
+  {
+    "word": "Schwimmflosse",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Swim fin"
+  },
+  {
+    "word": "Taucherbrille",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Diving mask"
+  },
+  {
+    "word": "Sonnenbrille",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Sunglasses"
+  },
+  {
+    "word": "Handtuch",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Towel"
+  },
+  {
+    "word": "Zelt",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Tent"
+  },
+  {
+    "word": "Schlafsack",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sleeping bag"
+  },
+  {
+    "word": "Feuer",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Fire"
+  },
+  {
+    "word": "Lagerfeuer",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Campfire"
+  },
+  {
+    "word": "Stern",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Star"
+  },
+  {
+    "word": "Mond",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Moon"
+  },
+  {
+    "word": "Sonne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Sun"
+  },
+  {
+    "word": "Wüste",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Desert"
+  },
+  {
+    "word": "Oase",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Oasis"
+  },
+  {
+    "word": "Tempel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Temple"
+  },
+  {
+    "word": "Ruine",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Ruin"
+  },
+  {
+    "word": "Mumie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Mummy"
+  },
+  {
+    "word": "Schatz",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Treasure, darling"
+  },
+  {
+    "word": "Karte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Map, card"
+  },
+  {
+    "word": "Kompass",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Compass"
+  },
+  {
+    "word": "Fernglas",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Binoculars"
+  },
+  {
+    "word": "Globus",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Globe"
+  },
+  {
+    "word": "Atlas",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Atlas"
+  },
+  {
+    "word": "Postkarte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Postcard"
+  },
+  {
+    "word": "Briefmarke",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Stamp (postage)"
+  },
+  {
+    "word": "Paket",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Package"
+  },
+  {
+    "word": "Briefkasten",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mailbox"
+  },
+  {
+    "word": "Schalter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Switch, counter (e.g., in a bank or post office)"
+  },
+  {
+    "word": "Warteschlange",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Queue, waiting line"
+  },
+  {
+    "word": "Ausweis",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "ID card, identification"
+  },
+  {
+    "word": "Visum",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Visa"
+  },
+  {
+    "word": "Zoll",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Customs, inch, duty"
+  },
+  {
+    "word": "Grenzposten",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Border post"
+  },
+  {
+    "word": "Nationalität",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Nationality"
+  },
+  {
+    "word": "Sprache",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Language"
+  },
+  {
+    "word": "Dialekt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Dialect"
+  },
+  {
+    "word": "Übersetzung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Translation"
+  },
+  {
+    "word": "Wörterbuch",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Dictionary"
+  },
+  {
+    "word": "Grammatik",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Grammar"
+  },
+  {
+    "word": "Aussprache",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Pronunciation"
+  },
+  {
+    "word": "Akzent",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Accent"
+  },
+  {
+    "word": "Zeitung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Newspaper"
+  },
+  {
+    "word": "Magazin",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Magazine"
+  },
+  {
+    "word": "Artikel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Article"
+  },
+  {
+    "word": "Nachrichten",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "News (Plural)"
+  },
+  {
+    "word": "Fernsehgerät",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Television set"
+  },
+  {
+    "word": "Fernsehen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Television (as an activity/medium)"
+  },
+  {
+    "word": "Kabel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Cable"
+  },
+  {
+    "word": "Steckdose",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Socket, outlet"
+  },
+  {
+    "word": "Lampe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Lamp"
+  },
+  {
+    "word": "Lichtschalter",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Light switch"
+  },
+  {
+    "word": "Vorhang",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Curtain"
+  },
+  {
+    "word": "Teppich",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Carpet, rug"
+  },
+  {
+    "word": "Sofa",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Sofa, couch"
+  },
+  {
+    "word": "Sessel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Armchair"
+  },
+  {
+    "word": "Kissen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Cushion, pillow"
+  },
+  {
+    "word": "Decke",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Blanket, ceiling"
+  },
+  {
+    "word": "Boden",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Floor, ground"
+  },
+  {
+    "word": "Treppe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Stairs"
+  },
+  {
+    "word": "Aufzug",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Elevator, lift"
+  },
+  {
+    "word": "Keller",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Cellar, basement"
+  },
+  {
+    "word": "Dach",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Roof"
+  },
+  {
+    "word": "Müll",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Garbage, trash"
+  },
+  {
+    "word": "Mülleimer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Trash can, garbage bin"
+  },
+  {
+    "word": "Seife",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Soap"
+  },
+  {
+    "word": "Zahnbürste",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Toothbrush"
+  },
+  {
+    "word": "Zahnpasta",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Toothpaste"
+  },
+  {
+    "word": "Spiegel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mirror"
+  },
+  {
+    "word": "Dusche",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Shower"
+  },
+  {
+    "word": "Badewanne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bathtub"
+  },
+  {
+    "word": "Toilette",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Toilet"
+  },
+  {
+    "word": "Waschbecken",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Sink, washbasin"
+  },
+  {
+    "word": "Föhn",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Hair dryer"
+  },
+  {
+    "word": "Kamm",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Comb"
+  },
+  {
+    "word": "Bürste",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Brush"
+  },
+  {
+    "word": "Schmuck",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Jewelry, decoration"
+  },
+  {
+    "word": "Ring",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Ring"
+  },
+  {
+    "word": "Kette",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Chain, necklace"
+  },
+  {
+    "word": "Uhr",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Clock, watch"
+  },
+  {
+    "word": "Krawatte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Tie (necktie)"
+  },
+  {
+    "word": "Gürtel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Belt"
+  },
+  {
+    "word": "Mantel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Coat, overcoat"
+  },
+  {
+    "word": "Jacke",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Jacket"
+  },
+  {
+    "word": "Hose",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Trousers, pants"
+  },
+  {
+    "word": "Hemd",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Shirt"
+  },
+  {
+    "word": "Kleid",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Dress"
+  },
+  {
+    "word": "Rock",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Skirt, rock (music/stone)"
+  },
+  {
+    "word": "Schuh",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Shoe"
+  },
+  {
+    "word": "Socke",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Sock"
+  },
+  {
+    "word": "Mütze",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Cap, beanie"
+  },
+  {
+    "word": "Schal",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Scarf"
+  },
+  {
+    "word": "Handschuh",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Glove (often plural 'Handschuhe')"
+  },
+  {
+    "word": "Sportart",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Type of sport"
+  },
+  {
+    "word": "Fitnessstudio",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Gym, fitness studio"
+  },
+  {
+    "word": "Ball",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Ball"
+  },
+  {
+    "word": "Schläger",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Racket, bat, club"
+  },
+  {
+    "word": "Netz",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Net, network"
+  },
+  {
+    "word": "Tor",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Goal, gate"
+  },
+  {
+    "word": "Mannschaft",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Team"
+  },
+  {
+    "word": "Sieg",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Victory"
+  },
+  {
+    "word": "Niederlage",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Defeat"
+  },
+  {
+    "word": "Trainer",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Coach, trainer (male)"
+  },
+  {
+    "word": "Trainerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Coach, trainer (female)"
+  },
+  {
+    "word": "Medaille",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Medal"
+  },
+  {
+    "word": "Rekord",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Record"
+  },
+  {
+    "word": "Jäger",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Hunter (male)"
+  },
+  {
+    "word": "Jägerin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Hunter (female)"
+  },
+  {
+    "word": "Waffe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Weapon"
+  },
+  {
+    "word": "Pfeil",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Arrow"
+  },
+  {
+    "word": "Bogen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Bow (for archery), arch"
+  },
+  {
+    "word": "Jagd",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Hunt, hunting"
+  },
+  {
+    "word": "Lied",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Song"
+  },
+  {
+    "word": "Ton",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Sound, tone, clay"
+  },
+  {
+    "word": "Melodie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Melody"
+  },
+  {
+    "word": "Rhythmus",
+    "options": [
+      "Die",
+      "Das",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Rhythm"
+  },
+  {
+    "word": "Instrument",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Instrument"
+  },
+  {
+    "word": "Geige",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Violin"
+  },
+  {
+    "word": "Klavier",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Piano"
+  },
+  {
+    "word": "Schlagzeug",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Drum kit"
+  },
+  {
+    "word": "Bühne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Stage"
+  },
+  {
+    "word": "Publikum",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Audience"
+  },
+  {
+    "word": "Applaus",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Applause"
+  },
+  {
+    "word": "Eintritt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Entrance, admission"
+  },
+  {
+    "word": "Ausstellung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Exhibition"
+  },
+  {
+    "word": "Skulptur",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Sculpture"
+  },
+  {
+    "word": "Pinsel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Brush"
+  },
+  {
+    "word": "Farbe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Color, paint"
+  },
+  {
+    "word": "Museum",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Museum"
+  },
+  {
+    "word": "Architekt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Architect (male)"
+  },
+  {
+    "word": "Architektin",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Architect (female)"
+  },
+  {
+    "word": "Planung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Planning"
+  },
+  {
+    "word": "Bau",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Building (process or structure)"
+  },
+  {
+    "word": "Zeichnung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Drawing, design"
+  },
+  {
+    "word": "Maßstab",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Scale, standard"
+  },
+  {
+    "word": "Material",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Material"
+  },
+  {
+    "word": "Ziegel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Brick, tile"
+  },
+  {
+    "word": "Holz",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Wood"
+  },
+  {
+    "word": "Beton",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Concrete"
+  },
+  {
+    "word": "Stahl",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Steel"
+  },
+  {
+    "word": "Glas",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Glass"
+  },
+  {
+    "word": "Draht",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Wire"
+  },
+  {
+    "word": "Kabel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Cable"
+  },
+  {
+    "word": "Strom",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Electricity, current"
+  },
+  {
+    "word": "Wasserhahn",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Faucet, tap"
+  },
+  {
+    "word": "Rohr",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Pipe, tube"
+  },
+  {
+    "word": "Heizung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Heating"
+  },
+  {
+    "word": "Lüftung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Ventilation"
+  },
+  {
+    "word": "Klima",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Climate"
+  },
+  {
+    "word": "Temperatur",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Temperature"
+  },
+  {
+    "word": "Wärme",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Heat, warmth"
+  },
+  {
+    "word": "Kälte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Cold"
+  },
+  {
+    "word": "Feuchtigkeit",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Humidity, moisture"
+  },
+  {
+    "word": "Nebel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Fog, mist"
+  },
+  {
+    "word": "Blitz",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Lightning, flash"
+  },
+  {
+    "word": "Donner",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Thunder"
+  },
+  {
+    "word": "Hagel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Hail"
+  },
+  {
+    "word": "Regen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Rain"
+  },
+  {
+    "word": "Schnee",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Snow"
+  },
+  {
+    "word": "Sturm",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Storm"
+  },
+  {
+    "word": "Überschwemmung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Flood"
+  },
+  {
+    "word": "Erdbeben",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Earthquake"
+  },
+  {
+    "word": "Vulkan",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Volcano"
+  },
+  {
+    "word": "Landschaft",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Landscape"
+  },
+  {
+    "word": "Fluss",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "River"
+  },
+  {
+    "word": "Bach",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Stream, creek"
+  },
+  {
+    "word": "Teich",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Pond"
+  },
+  {
+    "word": "See",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Lake (der See), sea (die See)"
+  },
+  {
+    "word": "Ozean",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Ocean"
+  },
+  {
+    "word": "Küste",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Coast, shore"
+  },
+  {
+    "word": "Leuchtturm",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Lighthouse"
+  },
+  {
+    "word": "Felsen",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Rock, cliff"
+  },
+  {
+    "word": "Höhe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Height, altitude"
+  },
+  {
+    "word": "Tiefe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Depth"
+  },
+  {
+    "word": "Breite",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Width, breadth"
+  },
+  {
+    "word": "Länge",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Length"
+  },
+  {
+    "word": "Gewicht",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Weight"
+  },
+  {
+    "word": "Volumen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Volume"
+  },
+  {
+    "word": "Dichte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Density"
+  },
+  {
+    "word": "Geschwindigkeit",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Speed"
+  },
+  {
+    "word": "Richtung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Direction"
+  },
+  {
+    "word": "Winkel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Angle, corner"
+  },
+  {
+    "word": "Kreis",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Circle, district"
+  },
+  {
+    "word": "Quadrat",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Square"
+  },
+  {
+    "word": "Dreieck",
+    "options": [
+      "Das",
+      "Der",
+      "Die"
+    ],
+    "correct": 0,
+    "definition": "Triangle"
+  },
+  {
+    "word": "Linie",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Line"
+  },
+  {
+    "word": "Punkt",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Point, dot"
+  },
+  {
+    "word": "Zahl",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Number, figure"
+  },
+  {
+    "word": "Muster",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 0,
+    "definition": "Pattern, sample"
+  },
+  {
+    "word": "Form",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Shape, form"
+  },
+  {
+    "word": "Größe",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Size, magnitude"
+  },
+  {
+    "word": "Geruch",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Smell, odor"
+  },
+  {
+    "word": "Geschmack",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Taste"
+  },
+  {
+    "word": "Lärm",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Noise"
+  },
+  {
+    "word": "Stille",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Silence, quietness"
+  },
+  {
+    "word": "Gedanke",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Thought"
+  },
+  {
+    "word": "Gehirn",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Brain"
+  },
+  {
+    "word": "Seele",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Soul"
+  },
+  {
+    "word": "Verstand",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Mind, reason, intellect"
+  },
+  {
+    "word": "Gefühl",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Feeling"
+  },
+  {
+    "word": "Emotion",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Emotion"
+  },
+  {
+    "word": "Lachen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Laughter (as a noun)"
+  },
+  {
+    "word": "Weinen",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Crying (as a noun)"
+  },
+  {
+    "word": "Angst",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Fear"
+  },
+  {
+    "word": "Mut",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Courage"
+  },
+  {
+    "word": "Hoffnung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Hope"
+  },
+  {
+    "word": "Zweifel",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Doubt"
+  },
+  {
+    "word": "Glaube",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Belief, faith"
+  },
+  {
+    "word": "Religion",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Religion"
+  },
+  {
+    "word": "Kirche",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Church"
+  },
+  {
+    "word": "Moschee",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Mosque"
+  },
+  {
+    "word": "Synagoge",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Synagogue"
+  },
+  {
+    "word": "Priester",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Priest"
+  },
+  {
+    "word": "Nonne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Nun"
+  },
+  {
+    "word": "Gebet",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Prayer"
+  },
+  {
+    "word": "Bibel",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bible"
+  },
+  {
+    "word": "Koran",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Koran, Quran"
+  },
+  {
+    "word": "Gesang",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Singing, chorus, chant"
+  },
+  {
+    "word": "Hymne",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Anthem, hymn"
+  },
+  {
+    "word": "Glocke",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Bell"
+  },
+  {
+    "word": "Kerze",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Candle"
+  },
+  {
+    "word": "Altar",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Altar"
+  },
+  {
+    "word": "Statue",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Statue"
+  },
+  {
+    "word": "Gemälde",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Painting"
+  },
+  {
+    "word": "Kunstwerk",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Artwork"
+  },
+  {
+    "word": "Meisterwerk",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Masterpiece"
+  },
+  {
+    "word": "Geschichte",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "History, story"
+  },
+  {
+    "word": "Legende",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Legend"
+  },
+  {
+    "word": "Mythos",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Myth"
+  },
+  {
+    "word": "Wahrheit",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Truth"
+  },
+  {
+    "word": "Lüge",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Lie"
+  },
+  {
+    "word": "Geheimnis",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Secret"
+  },
+  {
+    "word": "Rätsel",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Riddle, puzzle"
+  },
+  {
+    "word": "Lösung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Solution"
+  },
+  {
+    "word": "Problem",
+    "options": [
+      "Der",
+      "Die",
+      "Das"
+    ],
+    "correct": 2,
+    "definition": "Problem"
+  },
+  {
+    "word": "Herausforderung",
+    "options": [
+      "Der",
+      "Das",
+      "Die"
+    ],
+    "correct": 2,
+    "definition": "Challenge"
+  },
+  {
+    "word": "Erfolg",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Success"
+  },
+  {
+    "word": "Misserfolg",
+    "options": [
+      "Das",
+      "Die",
+      "Der"
+    ],
+    "correct": 2,
+    "definition": "Failure"
+  }
+]
