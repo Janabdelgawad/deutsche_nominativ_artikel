@@ -2,13 +2,13 @@ let quizData = [];
 let currentQuestion = 0;
 
 // Shuffle helper function
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-}
+// function shuffleArray(array) {
+//     for (let i = array.length - 1; i > 0; i--) {
+//         const j = Math.floor(Math.random() * (i + 1));
+//         [array[i], array[j]] = [array[j], array[i]];
+//     }
+//     return array;
+// }
 // Store answers: key = question index, value = selected option index
 let userAnswers = {};
 
@@ -21,7 +21,7 @@ const prevBtn = document.getElementById("prevBtn");
 fetch('./german_words.json')
     .then(res => res.json())
     .then(data => {
-        quizData = shuffleArray(data);
+        quizData = data;
         showQuestion(currentQuestion);
     })
     .catch(err => console.error(err));
@@ -109,3 +109,4 @@ prevBtn.addEventListener('click', () => {
         showQuestion(currentQuestion);
     }
 });
+
