@@ -28,7 +28,7 @@ fetch('./german_words.json')
 
 function showQuestion(index) {
     const q = quizData[index];
-    questionEl.innerText = q.word;
+    questionEl.innerText = `…… ${q.word}`;
     optionsContainer.innerHTML = "";
     feedbackEl.className = "feedback";
     feedbackEl.style.display = "none";
