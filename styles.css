@@ -155,4 +155,51 @@ input {
 
 .hidden {
     display: none;
+
+}
+
+/* Mobile responsiveness for widths 350px and below */
+@media (max-width: 350px) {
+    body {
+        padding: 10px;
+    }
+
+    .quiz-container {
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+    .quiz-header {
+        font-size: 0.9em;
+        white-space: normal; /* allow wrapping */
+    }
+
+    .question {
+        font-size: 1em;
+        line-height: 1.3;
+    }
+
+    .options {
+        gap: 8px;
+    }
+
+    .option {
+        padding: 10px 12px;
+        font-size: 0.9em;
+    }
+
+    .buttons {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .btn {
+        padding: 10px;
+        font-size: 0.9em;
+    }
+
+    .feedback {
+        font-size: 0.85em;
+        padding: 10px;
+    }
 }
